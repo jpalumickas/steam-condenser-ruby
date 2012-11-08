@@ -1,5 +1,6 @@
 ## Version 2.0.0 / Unreleased
 
+ * [FEATURE] Support for game statistics via Web API
  * [FEATURE] Use the Web API to get games
  * [ENHANCEMENT] Provide a simple way to get parsed JSON from Web API
  * [ENHANCEMENT] Removed old hackish master server functionality
